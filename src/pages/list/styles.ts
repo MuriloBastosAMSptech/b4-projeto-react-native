@@ -10,11 +10,11 @@ export const style = StyleSheet.create({
     },
     header:{
         width:'100%',
-        height:Dimensions.get('window').height/6,
+        height:Dimensions.get('window').height/5, //6 
         backgroundColor:themas.Colors.primary,
         // alignItems:'center',
         justifyContent:'center',
-        paddingHorizontal:20,
+        paddingHorizontal:26,
         
     },
     greeting:{
@@ -23,7 +23,9 @@ export const style = StyleSheet.create({
         marginTop:20
     },
     boxInput:{
-        width:'80%'
+        width:'100%', 
+        marginTop: 12, 
+        
     },
     boxList:{
         flex:1,

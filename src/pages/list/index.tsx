@@ -80,7 +80,7 @@ export default function List (){
         <View style={style.container}>
             <StatusBar  barStyle="light-content"/>
             <View style={style.header}>
-                <Text style={style.greeting}>Bom dia , <Text style={{fontWeight:'bold'}}>Admin.</Text></Text>
+                <Text style={style.greeting}>Olá! , <Text style={{fontWeight:'bold'}}>Admin.</Text></Text>
                 <View style={style.boxInput}>
                     <Input 
                         IconLeft={MaterialIcons}
