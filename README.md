@@ -37,6 +37,11 @@ Neste repositório, exploramos as incríveis possibilidades do desenvolvimento m
 - As páginas da aplicação estão disponíveis em "pages" e os componentes em "components", **toda a lógica back-end foi implementada diretamente na aplicação**. 
 	> Pasta  `'Pages'` ,  `'Components'` (Principais páginas do projeto)
 
+## 💻 Apresentação 
+
+- **Link para a apresentação:**
+- https://www.canva.com/design/DAGX0MN4SDA/jhImgK01fAP89iwABRn3Gg/edit?utm_content=DAGX0MN4SDA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## 🌈 Contribuições
 
 Professor Carlos Ronny, se você quiser contribuir ou dar feedback, fique à vontade para abrir um issue ou pull request! A colaboração é sempre bem-vinda!
