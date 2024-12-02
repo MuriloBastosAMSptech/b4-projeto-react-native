@@ -1,55 +1,11 @@
-# 🚀 Repositório de Atividade de React Native
+Repositório de Atividade de React Native
 
-Bem-vindo ao nosso repositório dedicado à atividade de **Técnicas Avançadas de Programação Web e Mobile**! Aqui, você encontrará tudo sobre o nosso projeto e o que cada um de nós trouxe para a mesa.
+Este repositório é dedicado ao desenvolvimento de soluções móveis utilizando React Native, com foco na aplicação de técnicas avançadas para criar projetos inovadores. O objetivo é aprofundar os conhecimentos adquiridos e compartilhar as descobertas feitas ao longo do processo.
 
-## 🌟 Sobre o Projeto
+Participante: Murilo Grillo Bastos
 
-Neste repositório, exploramos as incríveis possibilidades do desenvolvimento mobile com React Native, aplicando técnicas avançadas para criar soluções inovadoras e dinâmicas. Nossa missão é aprofundar nossos conhecimentos e compartilhar nossas descobertas!
+Tecnologias Utilizadas: React Native.
 
-## 👩‍💻 Participantes
+Instruções para Acessar a Aplicação:
 
-- **Bianca de Freitas Soares**  
-  🌼 Entusiasta de programação, sempre em busca de novos desafios!
-
-- **Camille G. Fernandes de Almeida**  
-  💻 Desenvolvedora em aprendizado constante, se dedica em aprender o máximo sobre tudo!
-
-- **Ruan Defavari Godoi**  
-  🎮 Desenvolvedor em ascensão, adora transformar ideias em realidade!
-
-## 📚 Conteúdo do Repositório
-
-- **Estrutura do Projeto**
-
-
-## 🛠️ Tecnologias Utilizadas
-
-- React Native
-
-## 💡Como Acessar a Aplicação? 
-
-- Para rodar o projeto:
-	> Utilize o comando `'npx expo start'`
-
-- Para rodar diretamente no codespace, **instale as dependências necessárias**, **reinicie o servidor e ele estará disponível para rodar novamente**. 
-	> Verifique todas as dependências instaladas!
-
-- As páginas da aplicação estão disponíveis em "pages" e os componentes em "components", **toda a lógica back-end foi implementada diretamente na aplicação**. 
-	> Pasta  `'Pages'` ,  `'Components'` (Principais páginas do projeto)
-
-## 💻 Apresentação 
-
-- **Link para a apresentação:**
-- https://www.canva.com/design/DAGX0MN4SDA/jhImgK01fAP89iwABRn3Gg/edit?utm_content=DAGX0MN4SDA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
-## 🌈 Contribuições
-
-Professor Carlos Ronny, se você quiser contribuir ou dar feedback, fique à vontade para abrir um issue ou pull request! A colaboração é sempre bem-vinda!
-
-## 🎉 Agradecimentos
-
-Um grande agradecimento a todos que tornaram este projeto possível! Estamos animados para ver onde essa jornada nos levará.
-
----
-
-Vamos juntos codar o futuro! 💪✨
+Para iniciar o projeto, utilize o comando: certifique-se de possuir todas as dependencias necessarias. npx expo start.
