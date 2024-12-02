@@ -10,8 +10,8 @@ import {MaterialIcons,Octicons} from '@expo/vector-icons';
 export default function Login (){
     const navigation = useNavigation<NavigationProp<any>>();
 
-    const [email,setEmail]               = useState('admin@gmail.com');
-    const [password,setPassword]         = useState('12345');
+    const [email,setEmail]               = useState('murilolista@email.com');
+    const [password,setPassword]         = useState('22222');
     const [showPassword,setShowPassword] = useState(true);
     const [loading,setLoading]           = useState(false);
 
@@ -24,7 +24,7 @@ export default function Login (){
                 return Alert.alert('Anteção','Informe os campos obrigatórios!')
             }
 
-            if(email === 'admin@gmail.com' && password === '12345'){
+            if(email === 'murilolista@email.com' && password === '22222'){
                 return navigation.reset({routes:[{name :'BottomRoutes'}]});
             }
 
@@ -45,7 +45,7 @@ export default function Login (){
                     style={style.logo}
                     resizeMode="contain"
                 />
-                <Text style={style.text}>Bem vindo de volta!</Text>
+                <Text style={style.text}>Seja bem vindo !</Text>
             </View>
             <View style={style.boxMid}>
                 <Input 
@@ -70,7 +70,7 @@ export default function Login (){
             <View style={style.boxBottom}>
                 <Button  text="ENTRAR" loading={loading} onPress={()=>getLogin()}/>
             </View>
-            <Text style={style.textBottom}>Não tem conta? <Text  style={style.textBottomCreate}>Crie agora</Text></Text>
+            <Text style={style.textBottom}>Acesse agora mesmo a conta de admin com o login já pré selecionado</Text>
         </View>
     )
 }

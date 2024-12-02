@@ -14,14 +14,15 @@ export default function User() {
 
     return (
         <View style={style.container}>
-            <Text style={style.name}>Admin.</Text>
+            <Text style={style.name}>Usuário admin.</Text>
             <TouchableOpacity style={style.logoutButton} onPress={handleLogout}>
                 <Ionicons 
                     name="exit"  
                     style={{color:'gray'}}
-                    size={40}
+                    size={50}
                 />
             </TouchableOpacity>
+            <Text style={style.textBottom}>Clique no botão acima para deslogar</Text> {/* Adicione o texto aqui */}
         </View>
     );
 }
